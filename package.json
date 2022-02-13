@@ -143,7 +143,7 @@
     "find-up": "^2.1.0",
     "flat-cache": "^2.0.1",
     "flatted": "^2.0.2",
-    "follow-redirects": "^1.5.10",
+    "follow-redirects": "^1.14.8",
     "for-in": "^1.0.2",
     "forever-agent": "^0.6.1",
     "form-data": "^2.3.3",
